@@ -53,14 +53,14 @@ API Node.js (multi-tenant routing)
 
 ## Screenshots
 
-![Hero](<img width="1908" height="959" alt="image" src="https://github.com/user-attachments/assets/b0bfa84c-afdc-4b34-9c2e-b8ad805dfaf5" />
-)
-![Listado de productos](<img width="1909" height="938" alt="image" src="https://github.com/user-attachments/assets/6272ac5b-a341-451f-a6b3-f1d6de3c6226" />
-)
-![Ficha de producto](<img width="1910" height="938" alt="image" src="https://github.com/user-attachments/assets/94aad0a3-bb9b-4090-a0ee-dee4f3d5bfb6" />
-)
-![Carrito](<img width="1910" height="962" alt="image" src="https://github.com/user-attachments/assets/c444a96b-a112-4271-a62b-1ba912403438" />
-)
+![Hero]
+<img width="1908" height="959" alt="image" src="https://github.com/user-attachments/assets/b0bfa84c-afdc-4b34-9c2e-b8ad805dfaf5" />
+[Listado de productos]
+<img width="1909" height="938" alt="image" src="https://github.com/user-attachments/assets/6272ac5b-a341-451f-a6b3-f1d6de3c6226" />
+!Ficha de producto]
+<img width="1910" height="938" alt="image" src="https://github.com/user-attachments/assets/94aad0a3-bb9b-4090-a0ee-dee4f3d5bfb6" />
+[Carrito]
+<img width="1910" height="962" alt="image" src="https://github.com/user-attachments/assets/c444a96b-a112-4271-a62b-1ba912403438" />
 
 ## Contacto
 
